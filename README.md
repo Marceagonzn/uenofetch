@@ -39,7 +39,7 @@ Displays:
 Open PowerShell and run:
 
 ```powershell
-iwr -useb https://raw.githubusercontent.com/TU_USUARIO/uenofetch/main/install.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Marceagonzn/uenofetch/main/install.ps1 | iex
 ```
 
 Restart your terminal and run:
@@ -61,7 +61,7 @@ sudo apt install powershell
 Then run:
 
 ```bash
-curl -s https://raw.githubusercontent.com/TU_USUARIO/uenofetch/main/install.ps1 | pwsh
+curl -s https://raw.githubusercontent.com/Marceagonzn/uenofetch/main/install.ps1 | pwsh
 ```
 
 After installation:
@@ -83,7 +83,7 @@ brew install --cask powershell
 Then:
 
 ```bash
-curl -s https://raw.githubusercontent.com/TU_USUARIO/uenofetch/main/install.ps1 | pwsh
+curl -s https://raw.githubusercontent.com/Marceagonzn/uenofetch/main/install.ps1 | pwsh
 ```
 
 ---
@@ -91,7 +91,7 @@ curl -s https://raw.githubusercontent.com/TU_USUARIO/uenofetch/main/install.ps1 
 # 🛠 Manual Installation
 
 ```bash
-git clone https://github.com/TU_USUARIO/uenofetch.git
+git clone https://github.com/Marceagonzn/uenofetch.git
 cd uenofetch
 pwsh install.ps1
 ```

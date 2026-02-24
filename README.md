@@ -30,6 +30,8 @@ Displays:
 - ⏳ Uptime
 - 🎨 Custom ASCII logo
 
+![uenofetch](https://github.com/user-attachments/assets/be384e15-d1a8-49a7-b407-144eb45c0d25)
+
 ---
 
 # 📦 Installation
